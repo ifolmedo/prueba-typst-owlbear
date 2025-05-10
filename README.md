@@ -1,4 +1,4 @@
-# Typst + GitHub Actions
+# Typst + owlbear + GitHub Actions
 
 Este repositorio genera automáticamente un PDF usando [Typst](https://github.com/typst/typst) y la plantila [owlbear](https://typst.app/universe/package/owlbear/) en GitHub Actions.
 

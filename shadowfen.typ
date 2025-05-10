@@ -64,6 +64,8 @@ En lo profundo de los valles cubiertos de niebla del Extremo Norte yace el olvid
     "Cementerio Hundido",
   )
 
+  #image("village.jpg", width: 100%)
+
   El tiempo se agota mientras las lunas avanzan hacia la plenitud una vez más —¿seréis los héroes que rompan la maldición, o las próximas almas reclamadas por el hambre que habita en las sombras?
 
   #dnd-dialogue(
